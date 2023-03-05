@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/netflix_practice/static/js/main.d4841c39.js",
+    "index.html": "/netflix_practice/index.html",
+    "main.d4841c39.js.map": "/netflix_practice/static/js/main.d4841c39.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d4841c39.js"
+  ]
+}
